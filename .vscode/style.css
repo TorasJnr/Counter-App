@@ -3,7 +3,11 @@
     padding: 0;
     box-sizing
 }
-
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+}
 /* git add .
 git commit -m "Initial commit"
 git push */
