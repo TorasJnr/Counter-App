@@ -16,7 +16,8 @@
         background-color: white;
         border-radius: 40px;
         padding: 20px;
-
+        display: flex;
+        flex-direction: column;
     }
 /* git add .
 git commit -m "Initial commit"
