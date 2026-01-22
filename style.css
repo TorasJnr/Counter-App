@@ -29,7 +29,9 @@
         width: 100px;
         height: 25px;
         background: #910404; 
-        
+        border-radius: 0 0 8px 10px;
+        position: absolute;
+        top: 0;
     }
 
 /* git add .
