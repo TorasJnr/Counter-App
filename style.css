@@ -5,8 +5,10 @@
 }
 body{
     height: 100vh;
-    display: flex;
-    justify-content: center;
+    /* display: flex; */
+    /* justify-content: center; */
+    /* align-items: center; */
+    background-color: #813b3b;
 }
 /* git add .
 git commit -m "Initial commit"
