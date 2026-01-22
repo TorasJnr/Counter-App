@@ -1,15 +1,23 @@
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing
-}
-body{
-    height: 100vh;
-    /* display: flex; */
-    /* justify-content: center; */
-    /* align-items: center; */
-    background-color: #813b3b;
-}
+    *{
+        margin: 0;
+        padding: 0;
+        box-sizing
+    }
+    body{
+        height: 100vh;
+        display: flex;
+        justify-content: center;
+        /* align-items: center; */
+        background-color: #813b3b;
+    }
+    .counter-container{
+        width: 350px;
+        height: 600px;
+        background-color: white;
+        border-radius: 40px;
+        padding: 20px;
+
+    }
 /* git add .
 git commit -m "Initial commit"
 git push */
