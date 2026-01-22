@@ -24,6 +24,10 @@
         box-shadow: 0 0 30px rgba(0,0,0,0.3);
 
     }
+    .counter-container::before{
+        content: "";
+    }
+
 /* git add .
 git commit -m "Initial commit"
 git push */
