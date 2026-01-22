@@ -26,6 +26,8 @@
     }
     .counter-container::before{
         content: "";
+        width: 100px;
+        height: 25px;
     }
 
 /* git add .
