@@ -61,6 +61,11 @@
         gap: 20px;
         margin-bottom: 40px;
     }
+    .counter-add {
+        flex: 2;
+        display: flex;
+        flex-direction: column;
+    }
 
 /* git add .
 git commit -m "Initial commit"
