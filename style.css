@@ -96,6 +96,9 @@
         border: none;
         border-radius: 10px;
         cursor: pointer;
+        transition: transform 0.2s;
+        margin-bottom: 10px;
+    }
 
 /* git add .
 git commit -m "Initial commit"
