@@ -107,6 +107,10 @@
         background-color: #000000;
         color: #fff;
     }
+    .counter-subtract button:hover,
+    .counter-reset button:hover {
+        transform: scale(1.05);
+    }
 
 /* git add .
 git commit -m "Initial commit"
