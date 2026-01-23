@@ -72,6 +72,9 @@
         font-size: 40px;
         background-color: #813b3b;
         color: #fff;
+        border: none;
+        border-radius: 15px;
+        cursor: pointer;
 
 /* git add .
 git commit -m "Initial commit"
