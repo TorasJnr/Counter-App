@@ -67,6 +67,9 @@
         flex-direction: column;
     }
 
+    .add-btn {
+        flex: 1;
+
 /* git add .
 git commit -m "Initial commit"
 git push */
