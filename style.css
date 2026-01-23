@@ -103,6 +103,10 @@
         background-color: #910404;
         color: #fff;
     }
+    .counter-reset button {
+        background-color: #000000;
+        color: #fff;
+    }
 
 /* git add .
 git commit -m "Initial commit"
