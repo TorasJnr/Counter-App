@@ -46,6 +46,12 @@
         margin-top: 90px;
     }
 
+    .counter-value{
+        font-size: 170px;
+        font-weight: 700;
+        color: #910404;
+    }
+
 /* git add .
 git commit -m "Initial commit"
 git push */
