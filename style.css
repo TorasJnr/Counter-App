@@ -4,14 +4,13 @@
         box-sizing
     }
 
-    body {
-  height: 100vh;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  background: #813b3b;
-  font-family: Arial, Helvetica, sans-serif;
-}
+    body{
+        height: 100vh;
+        display: flex;
+        justify-content: center;
+        /* align-items: center; */
+        background: #813b3b;
+    }
 
     .counter-container{
         position: relative;
