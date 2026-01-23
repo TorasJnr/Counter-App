@@ -78,6 +78,9 @@
         transition: transform 0.2s;
         margin-top: -9px;
     }
+    .add-btn:hover {
+        transform: scale(1.05);
+    }
 
 /* git add .
 git commit -m "Initial commit"
