@@ -112,8 +112,8 @@
         transform: scale(1.05);
     }
     .right-stack {
-  flex: 1;
-  display: flex;
+        flex: 1;
+        display: flex;
 
 /* git add .
 git commit -m "Initial commit"
