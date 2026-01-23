@@ -99,6 +99,10 @@
         transition: transform 0.2s;
         margin-bottom: 10px;
     }
+    .counter-subtract button {
+        background-color: #910404;
+        color: #fff;
+    }
 
 /* git add .
 git commit -m "Initial commit"
