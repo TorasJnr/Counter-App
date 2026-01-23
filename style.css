@@ -50,6 +50,8 @@
         font-size: 170px;
         font-weight: 700;
         color: #910404;
+        line-height: 1;
+        font-size: clamp(80px, 10vw, 100px);
     }
 
 /* git add .
