@@ -105,7 +105,7 @@
     }
     .counter-reset button {
         background-color: #000000;
-        color: #fff;
+        color: #ffff;
     }
     .counter-subtract button:hover,
     .counter-reset button:hover {
