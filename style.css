@@ -81,6 +81,13 @@
     .add-btn:hover {
         transform: scale(1.05);
     }
+    .counter-subtract,
+    .counter-reset {
+        flex: 1;        
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
 
 /* git add .
 git commit -m "Initial commit"
