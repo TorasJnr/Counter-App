@@ -4,7 +4,9 @@ document.addEventListener('DOMContentLoaded', ()=> {
     const subBtn = document.querySelector('data-sub');
     const subBtn = document.querySelector('data-reset');
     function handleAdd() {
-        let currentvalue =
+        let currentvalue = Number(counterValueE1.textContent);
+        currentValue += 1;
+        counterValueE1.textContent = currentValue;
     }
 })
 
