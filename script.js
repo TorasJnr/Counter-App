@@ -8,10 +8,7 @@ document.addEventListener('DOMContentLoaded', ()=> {
         currentValue += 1;
         counterValueE1.textContent = currentValue;
     }
-
-    function handleSubtract() {
-        counterValueE1.textContent = 0;
-    }
+    let
 
 })
 
