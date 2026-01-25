@@ -9,7 +9,10 @@ document.addEventListener('DOMContentLoaded', ()=> {
         counterValueE1.textContent = currentValue;
     }
 
-    
+    function handleSubtract() {
+        counterValueE1.textContent = 0;
+    }
+
 })
 
 // git add .
