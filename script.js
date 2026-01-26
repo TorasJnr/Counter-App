@@ -11,6 +11,7 @@ document.addEventListener('DOMContentLoaded', ()=> {
     function handleSubtract() {
         let currentValue = Number(counterValueEl.textContent);
         if (currentValue > 0) {
+            currentValue -= 1;
 
 
 
