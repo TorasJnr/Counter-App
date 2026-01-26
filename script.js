@@ -21,6 +21,8 @@ document.addEventListener('DOMContentLoaded', ()=> {
     }
 
 addBtn.addEventListener('click', handleAdd);
+subBtn.addEventListener('click', handleSubtract);
+
 
 });
 
