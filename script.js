@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', ()=> {
     const counterValueE1 = document.querySelector("counter-value");
-    const addBtn = document.querySelector('[data-add]');
+    const addBtn = document.querySelector("add-btn");
     const subBtn = document.querySelector('[data-sub]');
     const resetBtn = document.querySelector('[data-reset]');
     function handleAdd() {
