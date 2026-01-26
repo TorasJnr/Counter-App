@@ -20,6 +20,7 @@ document.addEventListener('DOMContentLoaded', ()=> {
       counterValueEl.textContent = 0;
     }
 
+addBtn.addEventListener('click', handleAdd);
 
 });
 
