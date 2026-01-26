@@ -5,13 +5,13 @@ document.addEventListener('DOMContentLoaded', ()=> {
     const resetBtn = document.querySelector('[data-reset]');
     function handleAdd() {
         let currentvalue = Number(counterValueE1.textContent);
-        currentValue += 1;
-        counterValueE1.textContent = currentValue;
+        currentvalue += 1;
+        counterValueE1.textContent = currentvalue;
     }
     function handleSubtract() {
-        let currentValue = Number(counterValueEl.textContent);
-        if (currentValue > 0) {
-            currentValue -= 1;
+        let currentvalue = Number(counterValueEl.textContent);
+        if (currentvalue > 0) {
+            currentvalue -= 1;
             counterValueEl.textContent = currentValue;
         }
     }
