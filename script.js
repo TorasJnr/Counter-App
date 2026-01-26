@@ -9,6 +9,8 @@ document.addEventListener('DOMContentLoaded', ()=> {
         counterValueE1.textContent = currentValue;
     }
     function handleSubtract() {
+        let currentValue = Number(counterValueEl.textContent);
+
 
 })
 
