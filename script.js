@@ -8,7 +8,6 @@ document.addEventListener('DOMContentLoaded', ()=> {
         currentValue += 1;
         counterValueE1.textContent = currentValue;
     }
-    let
 
 })
 
