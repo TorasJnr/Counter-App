@@ -17,7 +17,7 @@ document.addEventListener('DOMContentLoaded', ()=> {
     }
 
     function handleReset() {
-      counterValueEl.textContent = 7;
+      counterValueEl.textContent = 0;
 
 
 });
