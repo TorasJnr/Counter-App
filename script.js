@@ -13,7 +13,8 @@ document.addEventListener('DOMContentLoaded', ()=> {
         if (currentValue > 0) {
             currentValue -= 1;
             counterValueEl.textContent = currentValue;
-
+        }
+    }
 
 
 })
