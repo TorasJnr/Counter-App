@@ -12,6 +12,7 @@ document.addEventListener('DOMContentLoaded', ()=> {
         let currentValue = Number(counterValueEl.textContent);
         if (currentValue > 0) {
             currentValue -= 1;
+            counterValueEl.textContent = currentValue;
 
 
 
