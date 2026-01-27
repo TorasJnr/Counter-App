@@ -22,7 +22,7 @@ document.addEventListener('DOMContentLoaded', ()=> {
 
 addBtn.addEventListener('click', handleAdd);
 subBtn.addEventListener('click', handleSubtract);
-subBtn.addEventListener
+
 resetBtn.addEventListener('click', handleReset);
 
 });
